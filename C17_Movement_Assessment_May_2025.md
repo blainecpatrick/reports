@@ -52,7 +52,7 @@ This assessment is based on open-source data. Inferred flight paths during trans
 
 C-17A (01-0196) is operating as expected within its strategic airlift role, supporting NATO and CENTCOM logistics. The transponder shutdown aligns with known operational security practices when flying over sensitive areas. No anomalous behavior detected. 
 
-These movements correlate with an increase in NATO readiness and an uptick in CENTCOM logistics and regional movement in the Middle East. 
+These movements correlate with an increase in NATO readiness and an uptick in CENTCOM logistics and regional movement in the Middle East. Further correlation with parallel U.S. military logistics flights—particularly those involving C-17s, KC-135s, and C-5s—would help substantiate whether this activity represents routine resupply or a broader operational buildup in the CENTCOM AOR.
 
 
 ---
