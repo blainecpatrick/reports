@@ -27,7 +27,7 @@ Transponder deactivation during flights over high-risk or sensitive zones is a c
 
 _Note: During multiple periods, the aircraft's transponder was inactive or data was unavailable. Where relevant, movements are estimated based on last known position, direction, and time gaps. Contextual information is provided when possible to support assumptions._
 
-**May 6-8: Training / Test Flights**
+## May 6-8: Training / Test Flights
 
 - Callsigns: DECOY99, DECOY50
 - Operating around home base (Shepard Field WV)
@@ -39,7 +39,7 @@ _Note: During multiple periods, the aircraft's transponder was inactive or data 
 - Route:  WV to Duluth -> Rygge (Norway) -> return
 - NATO AWACS logistics hub involvement (Rygge)
 
-**May 20-23: CENTCOM Logistics**
+## May 20-23: CENTCOM Logistics
 
 - Callsign: RCH263
 - Route: WV -> Norfolk -> Rota (Spain) -> Sigonella (Italy) -> Transponder off -> Qatar (likely Al Udeid)
